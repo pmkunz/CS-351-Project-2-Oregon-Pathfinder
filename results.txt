@@ -1,0 +1,135 @@
+Algorithm: Dijkstra
+Start: Portland
+Goal: Salem
+Path: Salem -> Portland
+Total distance: 47.00 miles
+Vertices explored: 2
+Edges evaluated: 4
+Execution time: 0.001561 seconds
+--------------------------------------------------
+Algorithm: Greedy Best-First Search
+Start: Portland
+Goal: Salem
+Path: Portland -> Salem
+Total distance: 47.00 miles
+Vertices explored: 2
+Edges evaluated: 4
+Execution time: 0.000260 seconds
+--------------------------------------------------
+Algorithm: A* Search
+Start: Portland
+Goal: Salem
+Path: Portland -> Salem
+Total distance: 47.00 miles
+Vertices explored: 2
+Edges evaluated: 4
+Execution time: 0.000224 seconds
+--------------------------------------------------
+Algorithm: Dijkstra
+Start: Portland
+Goal: Eugene
+Path: Eugene -> Salem -> Portland
+Total distance: 111.00 miles
+Vertices explored: 7
+Edges evaluated: 17
+Execution time: 0.000639 seconds
+--------------------------------------------------
+Algorithm: Greedy Best-First Search
+Start: Portland
+Goal: Eugene
+Path: Portland -> Salem -> Eugene
+Total distance: 111.00 miles
+Vertices explored: 3
+Edges evaluated: 7
+Execution time: 0.002099 seconds
+--------------------------------------------------
+Algorithm: A* Search
+Start: Portland
+Goal: Eugene
+Path: Portland -> Salem -> Eugene
+Total distance: 111.00 miles
+Vertices explored: 3
+Edges evaluated: 7
+Execution time: 0.001437 seconds
+--------------------------------------------------
+Algorithm: Dijkstra
+Start: Portland
+Goal: Ashland
+Path: Ashland -> Medford -> Roseburg -> Eugene -> Salem -> Portland
+Total distance: 283.00 miles
+Vertices explored: 21
+Edges evaluated: 54
+Execution time: 0.000784 seconds
+--------------------------------------------------
+Algorithm: Greedy Best-First Search
+Start: Portland
+Goal: Ashland
+Path: Portland -> Newport -> Florence -> Coos_Bay -> Roseburg -> Medford -> Ashland
+Total distance: 412.00 miles
+Vertices explored: 7
+Edges evaluated: 18
+Execution time: 0.001234 seconds
+--------------------------------------------------
+Algorithm: A* Search
+Start: Portland
+Goal: Ashland
+Path: Portland -> Salem -> Eugene -> Roseburg -> Medford -> Ashland
+Total distance: 283.00 miles
+Vertices explored: 8
+Edges evaluated: 23
+Execution time: 0.000425 seconds
+--------------------------------------------------
+Algorithm: Dijkstra
+Start: Portland
+Goal: Burns
+Path: Burns -> Bend -> Redmond -> Madras -> The_Dalles -> Hood_River -> Portland
+Total distance: 351.00 miles
+Vertices explored: 23
+Edges evaluated: 56
+Execution time: 0.000530 seconds
+--------------------------------------------------
+Algorithm: Greedy Best-First Search
+Start: Portland
+Goal: Burns
+Path: Portland -> Hood_River -> The_Dalles -> Madras -> Redmond -> Bend -> Burns
+Total distance: 351.00 miles
+Vertices explored: 7
+Edges evaluated: 16
+Execution time: 0.000743 seconds
+--------------------------------------------------
+Algorithm: A* Search
+Start: Portland
+Goal: Burns
+Path: Portland -> Hood_River -> The_Dalles -> Madras -> Redmond -> Bend -> Burns
+Total distance: 351.00 miles
+Vertices explored: 10
+Edges evaluated: 27
+Execution time: 0.000725 seconds
+--------------------------------------------------
+Algorithm: Dijkstra
+Start: Portland
+Goal: Medford
+Path: Medford -> Roseburg -> Eugene -> Salem -> Portland
+Total distance: 268.00 miles
+Vertices explored: 20
+Edges evaluated: 51
+Execution time: 0.000553 seconds
+--------------------------------------------------
+Algorithm: Greedy Best-First Search
+Start: Portland
+Goal: Medford
+Path: Portland -> Newport -> Florence -> Coos_Bay -> Roseburg -> Medford
+Total distance: 397.00 miles
+Vertices explored: 6
+Edges evaluated: 15
+Execution time: 0.000689 seconds
+--------------------------------------------------
+Algorithm: A* Search
+Start: Portland
+Goal: Medford
+Path: Portland -> Salem -> Eugene -> Roseburg -> Medford
+Total distance: 268.00 miles
+Vertices explored: 6
+Edges evaluated: 18
+Execution time: 0.000189 seconds
+--------------------------------------------------
